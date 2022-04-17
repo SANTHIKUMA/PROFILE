@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>SANTHI KUMAR MALLI</title>
+
+
+    <script src="https://kit.fontawesome.com/af5e5cf94d.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+  </head>
+  <body>
+    <section class="top">
+    <div class="row ">
+
+
+  <div class=" col-lg-4 col-md-4 col-sm-4 con1">
+    <img src="images/pic3.jpeg" alt="profile pic" class="img1"height="200">
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 con2">
+<h1>MALLI SANTHI KUMAR</h1>
+<hr size="6" color="solid white">
+<p><em>B.Tech student in the <strong>SREE VIDYANIKETHAN ENGINEERING COLLEGE</a></strong>.</em></p>
+<p>I am <strong>MALLI SANTHI KUMAR</strong> from Andhra Pradesh which is in southpart of the INDIA and I have completed my secondary education in my hometown and i have passed out with an aggregate of 10 GRADE POINT AVEARAGES(GPA) and i have completed my 2 years of my INTERMEDIATE in my district and I have passed out with an aggregate of 96.9% and currently i am pursuing my Bachelors degree in the Computer Science</a> domain.
+</p>
+</div>
+</div>
+  </section>
+    <section class="top">
+<div class="row">
+  <div class=" col-lg-4 col-md-4 col-sm-4 con1">
+    <i class="fa-solid fa-envelope fa-2px color" ></i><br>
+    <a href="mailto:mskumar0612@gmail.com" class="color1">mskumar0612@gmail.com</a>
+    <br><br>
+<i class="fa-solid fa-square-phone color fa-2px"></i><br>
+
+<p class="color1">9392437097</p>
+<i class="fa-solid fa-location-dot fa-2px color"></i><br>
+<p class="color1">ANDHRA PRADESH,INDIA</p>
+<i class="fa-brands fa-linkedin color"></i><br>
+<a href="https://www.linkedin.com/in/santhi-kumar-malli-77109a20b/"class="color1">linkedin.com/feed/</a>
+<br><br>
+<i class="fa-brands fa-github fa-2x color"></i>
+<a href="https://github.com/SANTHIKUMA" class="color1"> github.com/SANTHIKUMA</a>
+
+  </div>
+  <div class="col-lg-6 col-md-6 col-sm-6 ">
+<h1 style="color:#40bf80;font-size:2rem;">EDUCATIONAL QUALIFICATIONS</h1>
+<hr size="6" width="900px;"style="background-color:#009933;">
+<h4 style="color:#40bf80;">B.TECH IN COMPUTER SCIENCE AND ENGINEERNG -</h4>
+<h5>SREE VIDYANIKETHAN ENGINEERING COLLEGE</h5>
+<h6>2020-2024</h6>
+<h4 style="color:#40bf80;">INTERMEDIATE-</h4>
+<h5>NARAYAN JR COLLEGE</h5>
+<h6>2018-2020</h6>
+<h4 style="color:#40bf80;">SSC-</h4>
+<h5>BALA BHARATHI EM/TM HIGH SCHOOL</h5>
+<h6>2017-2018</h6>
+  </div>
+
+</div>
+    </section>
+    <section class="top">
+    <div class="row ">
+
+
+  <div class=" col-lg-4 col-md-4 col-sm-4 con1">
+<h4 class="color2">SKILLS</h4>
+<hr size="6" style="background-color:#009933;margin-left:13%;">
+<label for="JAVA"class="con3"> JAVA </label><br>
+<label for="PYTHON"class="con3"> PYTHON </label><br>
+<label for="c++"class="con3"> C++ </label><br>
+<label for="JAVASCRIPT"class="con3"> JAVASCRIPT </label><br>
+<label for="C"class="con3"> C </label><br>
+<label for="SQL"class="con3"> SQL </label><br>
+<label for="HTML"class="con3"> HTML </label><br>
+<label for="CSS"class="con3"> CSS </label><br>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 con4">
+<h1 style="color:#40bf80;font-size:1.7rem;">MY STRENGTHS</h1>
+<hr size="6" style="background-color:#009933;">
+<h4 class="para">1. Communicating: Communication Skills</h4>
+<h4 class="para">2. Flexibility and Adaptability</h4>
+<h4 class="para">3. Learning agility: Quick learner</h4>
+<h4 class="para">4. Tolerance: Stress tolerance</h4>
+<h4 class="para">5. Critical thinking: Decision making skills</h4>
+<h4 class="para">6. Coaching people: Teaching</h4>
+<h4 class="para">7. Creating Ideas: Creativity</h4>
+<h4 class="para">8. Positive Attitude: Creating a positive work environment</h4>
+<h4 class="para">9. Goal oriented: results achiever, Meeting deadlines</h4>
+</div>
+</div>
+  </section>
+  <section class="top">
+  <div class="row ">
+
+
+<div class=" col-lg-4 col-md-4 col-sm-4 con1">
+  <h4 class="color2">LANGAUGES</h4>
+  <hr size="6" style="background-color:#009933;margin-left:13%;">
+  <h5 class="color1">ENGLISH</h5>
+  <i class="fa-solid fa-circle fa-2px color"></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i>
+<br>
+<h5 class="color1">TELUGU</h5>
+<i class="fa-solid fa-circle fa-2px color"></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i>
+<br>
+<h5 class="color1">HINDI</h5>
+<i class="fa-solid fa-circle fa-2px color"></i><i class="fa-solid fa-circle fa-8px color3"></i></i><i class="fa-solid fa-circle fa-8px color3"></i>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-6 con4">
+  <h1 style="color:#40bf80;font-size:1.7rem;">PROJECTS</h1>
+  <hr size="6" style="background-color:#009933;">
+  <h4 style="color:#40bf80;">TINDOG</h4>
+  <p class="para"><b>FRONT END DEVELOPMENT WEBSITE</b></p>
+  <h4 style="color:#40bf80;">LINK :</h4>
+  <a href="https://santhikuma.github.io/WEBPAGE/" style="font-size:1.3rem;">https://santhikuma.github.io/WEBPAGE/</a>
+</div>
+</div>
+</section>
+
+  </body>
+</html>

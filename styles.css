@@ -1,0 +1,74 @@
+.con2
+{
+width: 72%;
+background-color: #40bf80;
+color: white;
+
+}
+.img1
+{
+  border-radius: 50% ;
+margin-top: 4%;
+margin-left: 13%;
+}
+.con1
+{
+  width: 25%;
+}
+.top
+{
+  margin-top: 2%;
+}
+.con3
+{
+    margin-left: 13%;
+  background-color: #40bf80;
+  color: white;
+  border-radius: 12%;
+
+  height: 30px;
+  padding-top: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-bottom: 4%;
+
+}
+.color
+{
+  color: #40bf80;
+  margin-left: 13%;
+  font-size: 1.2rem;
+
+}
+.row
+{
+  margin-right: 0;
+}
+.color1
+{
+  margin-left: 13%;
+  font-size: 1.2rem;
+  color: black;
+}
+.color2
+{
+  margin-left: 13%;
+  font-size: 1.7rem;
+  color: #40bf80 ;
+}
+.con4
+{
+  width: 72%;
+}
+.para
+{
+    font-weight:  normal;
+      font-size: 1.4rem;
+
+}
+.color3
+{
+  font-size: 1.2rem;
+  color: #40bf80 ;
+  margin-left: 5%;
+}
